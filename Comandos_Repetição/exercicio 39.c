@@ -1,5 +1,5 @@
 /*
-Escreva um algoritmo que calcule e mostre os 10 primeiros termos da s  ́erie de
+Escreva um algoritmo que calcule e mostre os 10 primeiros termos da serie de
 Fibonacci:
 
 1 1 2 3 5 8 13 21 34 55 89 144 233 377 ...
